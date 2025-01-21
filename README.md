@@ -1,5 +1,5 @@
 # Proiect Teh web
-Proiect Feedback
+Proiect Feedback (gr. 1098, proiect 6)
 > [!TIP]
 > Trebuie rulat `npm install` in directorul principal.
 
